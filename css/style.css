@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+/* =======================================
+            main-header-css
+========================================== */
+.main-header{
+    /* background-color: #87509c; */
+}
+.nav-bg{
+    background-color: #87509c;
+}
+.nav-link{
+    color: white;
+}
+.main-header .nav-item :hover{
+    color: white;
+    background-color: #643a79;
+    border-radius: 5px;
+}
+.banner h3{
+    font-size: 42px;
+    margin-top: 168px;
+    font-weight: bold;
+}
+.banner button{
+    background-color: #eb7d4b;
+    border-bottom: 2px solid #C86A40;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.banner button:hover{
+    color: white;
+    background-color: #643a79;
+    border-radius: 5px; 
+}
+/* =======================================
+            main-header-css-end
+========================================== */
+
+/* ========================================
+                banner-css
+=========================================== */
+.main-banner{
+    background-color: #87509c;
+}
+
+/* ========================================
+                banner-css
+=========================================== */
+
+/* =======================================
+            service-css
+========================================== */
+.service{
+    padding-top: 85px;
+    background-color: #17c2a4;
+}
+.service h5{
+
+  font-size: 33px;
+  font-weight: bolder;
+  color: white;
+}
+.service .container hr{
+    margin: auto;
+    width: 6%;
+    margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* =======================================
+            service-css-end
+========================================== */
+/* =================================
+         meet start
+=================================== */
+.meet{
+    background-color: #e7f1f8;
+}
+.meet h4{
+    font-size: 28px;
+  font-weight: bold;
+  padding-top: 50px;
+}
+.meet .container hr{
+    margin: auto;
+    width: 6%;
+    margin-top: 20px;
+  margin-bottom: 20px;
+}
+.meet a{
+    color: #30BAE7;
+    text-decoration: none;
+    margin: auto;
+}
+/* =================================
+         meet end
+=================================== */
+
+/* ==================================
+            protfolieo-start
+===================================== */
+.protfolieo{
+    
+    background-color: #FFDD99;
+    padding-bottom: 50px;
+}
+.protfolieo .btn-group button{
+    background-color: #EBC985;
+    border: none;
+}
+.protfolieo .btn-group button:hover{
+    background-color: white;
+}
+.protfolieo .prot-btn button{
+    background-color: #17c2a4;
+    border-bottom: 2px solid #14A58C;
+    color: white;
+    width: 20%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+/* ==================================
+           protfolieo-end
+===================================== */
+
+/* ===========================================
+            about-start
+============================================== */
+.abaut{
+    background-color: #d74680;
+    padding-top: 86px;
+  color: white;
+}
+/* ===========================================
+            about-start
+============================================== */
+
+/* ===============================================
+            contact-us-start
+================================================== */
+.contact-us{
+    background-color: #3c5499;
+    color: white;
+}
+
+
+
+/* ===============================================
+            contact-us-start
+================================================== */
